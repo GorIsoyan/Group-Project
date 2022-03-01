@@ -1,0 +1,26 @@
+Introduction to Programming
+Group Project
+Topic - Budgeting
+
+1.1 Project Description
+Students are undergoing serious problems connected to personal finance and it affects their abilities to pay tuition, since they are not saving money properly. This project is about optimization students personal budget. As our program will count the students financial status, it will give daily and monthly statistics  of the students expanses. It will allow students to put aside money for their tuition fees. 
+
+1.1.1 Background
+Our user will give the program 3 inputs:
+1. all amount of money he wants to spend for a month - the user will choose what amount of money to save and which to spend during a month. The programm will give a monthly feedback whether the user have minus status or plus. If it will be minus, it will tell that the saving money is under danger.
+2. our program will count how much money is needed to spend on a day for a given specified x money. If the user will input more money then the program suggests, it will notify the user about extra spendings or expenses.
+
+1.1.2 Assumptions and Constraints
+To execute the program we have to use some tools of Software Engineer, in this case the program will be written in C Programming Language. We are assuming, that we are going to use GUI for the graphical illustration of the charts.
+
+1.2.1 Overview of the Envisioned System
+The program will take input from the user and give daily and monthly feedback with illustration about expanses.
+
+1.2.2 System Scope 
+In this section, we are going to speak about the main functions and details of the program, Our program will take 3 inputs from user:
+1. The customer will list his daily punitive spendings
+2. the user will input the rough amount of inflowing money during the month, and the amount which is going to be spent during a month
+3. for savings, as our the main idea of our program is to help the student to save money, the user is going to get quick notifications which will inform him or her about the exceeding spending which he/she planned and specified priorly in the application . The notification will be determined by the month budget divided by daily acceptable budget.
+
+2.1
+In this program we will use some C libraries to get access some toolsets.
